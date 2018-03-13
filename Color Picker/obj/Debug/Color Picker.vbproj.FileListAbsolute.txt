@@ -1,0 +1,44 @@
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\bin\Debug\Color Picker.xml
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color_Picker.Resources.resources
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color Picker.vbproj.GenerateResource.Cache
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color Picker.xml
+C:\Users\root\AppData\Local\Temporary Projects\Color Picker\obj\Debug\Color Picker.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color Picker.xml
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\bin\Debug\Color Picker.xml
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color_Picker.Resources.resources
+C:\Users\root\Documents\Visual Studio 2012\Projects\Color Picker\Color Picker\obj\Debug\Color Picker.vbproj.GenerateResource.Cache
+D:\previos OS\12-07-16\New folder\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+D:\previos OS\12-07-16\New folder\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+D:\previos OS\12-07-16\New folder\Color Picker\Color Picker\obj\Debug\Color Picker.xml
+D:\previos OS\12-07-16\New folder\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color Picker.xml
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\bin\Debug\Color Picker.xml
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color_Picker.Resources.resources
+C:\Users\Makrand\Desktop\Color Picker\Color Picker\obj\Debug\Color Picker.vbproj.GenerateResource.Cache
+D:\Demo\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color Picker.xml
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+D:\Demo\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+D:\Demo\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+D:\Demo\Color Picker\Color Picker\bin\Debug\Color Picker.xml
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color_Picker.Resources.resources
+D:\Demo\Color Picker\Color Picker\obj\Debug\Color Picker.vbproj.GenerateResource.Cache
